@@ -1,8 +1,8 @@
-# redis-operator
-// TODO(user): Add simple overview of use/purpose
+# K8s Redis Operator
+Kubernetes operator to operate Redis cluster
 
 ## Description
-// TODO(user): An in-depth paragraph about your project and overview of use
+Kubernetes operator to operate Redis cluster
 
 ## Getting Started
 
